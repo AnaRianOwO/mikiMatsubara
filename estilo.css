@@ -1,0 +1,63 @@
+body {
+    background-color: #414141;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    width: 500px;
+    height: 500px;
+    margin: 30 250px auto;
+}
+
+h1 {
+    font-size: 2.5em;
+    text-align: center;
+    color: #fff;
+    margin: 15px;
+    padding: 5px;
+}
+
+p {
+    font-size: 1.5em;
+    text-align: center;
+    color: #fff;
+    margin: 15px;
+    padding: 5px;
+}
+
+.tarjeta {
+    width: 1000px;
+    height: 1000px;
+    margin: 0 auto;
+    padding: 0;
+    border: 1px solid #fff;
+}
+
+.tarjeta:hover {
+    box-shadow: 0 0 20px rgba(255, 255, 255);
+    background-color: rgb(32, 41, 41);
+}
+
+video {
+    width: 550px;
+    height: 320px;
+    margin: 0 225px auto;
+}
+
+.video {
+    width: 1000px;
+    height: 1000px;
+    margin: 0 auto;
+    padding: 0;
+    border: 1px solid #fff;
+    background-color: rgb(32, 41, 41);
+}
+
+.video:hover {
+    box-shadow: 0 0 20px rgba(255, 255, 255);
+    background-color: #414141;
+}

@@ -61,3 +61,14 @@ video {
     box-shadow: 0 0 20px rgba(255, 255, 255);
     background-color: #414141;
 }
+
+.letra p{
+    margin: 10px auto;
+    padding: 10px;
+}
+
+.letra p span{
+    display: block;
+    font-size: 0.75em;
+    font-style: italic;
+}
